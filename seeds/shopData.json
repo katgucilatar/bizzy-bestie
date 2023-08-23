@@ -1,0 +1,9 @@
+[
+    {
+        "name": "Sizzlin Sauces",
+        "description": "Your go-to stop for your hot sauce needs",
+        "announcements": "50% SALE, USE CODE SUMMER50",
+        "image": "./assets/sizzlinsauces.avif",
+        "buyers": ["pineapple54@gmail.com", "katrinaj39@outlook.com", "echobox3@icloud.com"]
+    }
+]
